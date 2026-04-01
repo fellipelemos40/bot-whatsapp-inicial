@@ -1,20 +1,29 @@
-# bot-whatsapp-inicial
-Projeto inicial de aprendizado em desenvolvimento de sistemas e automação.
 # 🤖 Bot WhatsApp Inicial
 
-Projeto em desenvolvimento de um bot de automação para WhatsApp.
+🚀 Projeto de automação desenvolvido com foco em atendimento inteligente via WhatsApp.
 
-## 🚀 Objetivo
-Criar um sistema capaz de responder mensagens automaticamente e auxiliar no atendimento de clientes.
+---
 
-## 🧠 Tecnologias
-- Node.js
+## 📌 Sobre o projeto
+Este projeto tem como objetivo criar um bot capaz de responder mensagens automaticamente, simulando um atendimento real para clientes.
+
+---
+
+## 🧠 Tecnologias utilizadas
 - JavaScript
+- Node.js
 
-## ⚙️ Funcionalidades (em breve)
-- Resposta automática
-- Integração com mensagens
-- Simulação de atendimento
+---
 
-## 👨‍💻 Autor
-Felipe Lemos
+## ⚙️ Funcionalidades
+- [ ] Resposta automática
+- [ ] Integração com WhatsApp Web
+- [ ] Simulação de atendimento
+- [ ] Organização de mensagens
+
+---
+
+## 🚀 Como executar
+
+```bash
+node index.js
